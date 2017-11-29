@@ -3,7 +3,7 @@ languageCode = "en"
 title = "The Blog of Brizrobbo"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/brizrobbo\">Craig Robinson</a> 2017"
-disqusShortname = "shortname"
+disqusShortname = "brizrobbo"
 googleAnalytics = ""
 # Number of posts per page
 Paginate = 5
