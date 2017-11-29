@@ -1,7 +1,6 @@
 ---
 title: "The Agile NOC'er (Part 1)"
 date: 2017-11-29T13:21:59+10:00
-draft: true
 ---
 
 ## The experience of introducing agile practices into a reactive Operations team.
