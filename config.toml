@@ -2,7 +2,7 @@ baseurl = "http://blog.brizrobbo.net"
 languageCode = "en"
 title = "The Blog of Brizrobbo"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/brizrobbo\">Craig Robinson</a> 2017"
+copyright = "&copy; <a href=\"https://github.com/brizrobbo\">Craig Robinson</a> 2018"
 disqusShortname = "brizrobbo"
 googleAnalytics = ""
 # Number of posts per page

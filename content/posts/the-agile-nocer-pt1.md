@@ -63,4 +63,4 @@ Therefore, to solve this problem we have specially commissioned a scrum-master r
 
 ### Next - How did it all go?
 
-In this post, I outlined what our basic challenges were in getting Agile processes into the NOC. I also described some of the broad strategies we thought would attempt to solve some of these problems. Stand by for Part 2, when the "rubber hits the road" and we honestly assess the effectiveness of these strategies.  
+In this post, I outlined what our basic challenges were in getting Agile processes into the NOC. I also described some of the broad strategies we thought would attempt to solve some of these problems. Stand by for [Part 2](../the-agile-nocer-pt2), when the "rubber hits the road" and we honestly assess the effectiveness of these strategies.

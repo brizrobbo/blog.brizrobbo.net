@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog.brizrobbo.net/posts/the-agile-nocer-pt2/</loc>
+    <lastmod>2018-03-16T16:12:39+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.brizrobbo.net/posts/the-agile-nocer-pt1/</loc>
     <lastmod>2017-11-29T13:21:59+10:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.brizrobbo.net/posts/</loc>
-    <lastmod>2017-11-29T13:21:59+10:00</lastmod>
+    <lastmod>2018-03-16T16:12:39+10:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,7 +25,7 @@
   
   <url>
     <loc>http://blog.brizrobbo.net/</loc>
-    <lastmod>2017-11-29T13:21:59+10:00</lastmod>
+    <lastmod>2018-03-16T16:12:39+10:00</lastmod>
     <priority>0</priority>
   </url>
   
